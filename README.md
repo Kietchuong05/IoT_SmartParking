@@ -1,2 +1,2 @@
-# Tiểu luận môn Lập trình IoT: Đề tài Platform Mainflux
+# Tiểu luận môn Lập trình IoT: Đề tài Platform Homeassistant
 
