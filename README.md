@@ -15,3 +15,4 @@ Phần mềm cần thiết để chạy tiểu luận:
 ```sh
  docker run -d --name="homeassistant" -v E:\homeassistant:/config -p 8123:8123 homeassistant/home-assistant:latest
 ```
+### Lưu ý: thư mục homeassistant đang ổ địa E hay sửa lại nếu bạn đang lưu ổ địa khác.
