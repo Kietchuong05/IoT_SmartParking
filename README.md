@@ -14,6 +14,7 @@ Phần mềm cần thiết để chạy tiểu luận:
 ```sh
 docker pull homeassistant/home-assistant
  ```
+- Sau khi chạy mã, bạn sẽ nhận được kết quả sau:
 ![image](https://github.com/user-attachments/assets/d1268bf6-c06e-4787-ad65-37901af2e163)
 
 - Tạo thư mục tên homeassistant
