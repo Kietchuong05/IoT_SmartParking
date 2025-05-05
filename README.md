@@ -12,4 +12,6 @@ Phần mềm cần thiết để chạy tiểu luận:
 - Tạo thư mục tên homeassistant
 - Mở CMD, Git Bash, hoặc Terminal tại thư mục này.
 - Nhập dòng lệnh sau: 
-```sh docker run -d --name="homeassistant" -v E:\homeassistant:/config -p 8123:8123 homeassistant/home-assistant:latest```
+```sh
+ docker run -d --name="homeassistant" -v E:\homeassistant:/config -p 8123:8123 homeassistant/home-assistant:latest
+```
