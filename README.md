@@ -2,8 +2,8 @@
 - Đề tài: Bãi đỗ xe thông minh
 - Platform: Homeassistant
 ## Các thành viên làm tiểu luận:
-- Lê Thành Đạt
-- Chướng Và Kiệt
+- Lê Thành Đạt - 23050041
+- Chướng Và Kiệt - 23050043
 ## Hướng dẫn sử dụng:
 Phần mềm cần thiết để chạy tiểu luận:
 - Docker Desktop.
@@ -14,6 +14,8 @@ Phần mềm cần thiết để chạy tiểu luận:
 ```sh
 docker pull homeassistant/home-assistant
  ```
+![image](https://github.com/user-attachments/assets/d1268bf6-c06e-4787-ad65-37901af2e163)
+
 - Tạo thư mục tên homeassistant
 - Mở CMD tại thư mục này.
 - Nhập dòng lệnh sau: 
