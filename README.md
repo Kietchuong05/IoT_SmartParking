@@ -23,4 +23,7 @@ docker pull homeassistant/home-assistant
 ```sh
  docker run -d --name="homeassistant" -v E:\homeassistant:/config -p 8123:8123 homeassistant/home-assistant:latest
 ```
-#### Lưu ý: thư mục homeassistant đang ổ địa E hay sửa lại nếu bạn đang lưu ổ địa khác.
+##### Lưu ý: thư mục homeassistant đang ổ địa E hay sửa lại nếu bạn đang lưu ổ địa khác.
+- Sau khi chạy xong dòng lệnh trên bạn hãy vào trình duyệt bất kì và tìm kiếm `localhost:8123`, nó sẽ hiện trang Homeassistant
+- ![image](https://github.com/user-attachments/assets/459b4a2b-b84b-4cdb-8e1f-7ac2ad6c91f6)
+
